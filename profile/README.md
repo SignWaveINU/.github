@@ -10,7 +10,9 @@
 ---
 [Figma]
 ##### https://www.figma.com/design/fnmzFNucOrR1xvJcGI2soJ/Untitled?node-id=0-1&m=dev&t=whykNMzLM4lWdRII-1
-
+---
+[Doc(PPT)]
+##### https://docs.google.com/presentation/d/1qaB3dlOPRkqn99oJakK6NS7TiNdpFkjzmilmlIJUk-A/edit?usp=sharing
 
 <!--
 
