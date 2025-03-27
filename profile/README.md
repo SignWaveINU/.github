@@ -16,7 +16,9 @@
 [Doc(PPT)]
 ##### https://docs.google.com/presentation/d/1qaB3dlOPRkqn99oJakK6NS7TiNdpFkjzmilmlIJUk-A/edit?usp=sharing
 
-
+---
+[Word]
+#####https://youtube.com/playlist?list=PLFCmZhLK9Txl69GdMQnhEnyzGlkmTySyh&si=ceJg33HzOsgskyQJ
 <!--
 
 **Here are some ideas to get you started:**
