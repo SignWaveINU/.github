@@ -1,6 +1,8 @@
 ## SignWave
 딥러닝의 시계열 데이터 모델링을 보강한 의료 환경 수화 인식기 개발
 
+![image](https://github.com/user-attachments/assets/31675a28-ee1a-46f7-a818-8be9279f215b)
+
 ---
 [Data(Google Drive)] 
 ##### https://drive.google.com/drive/folders/1OJ1_br6xRmPAoMxe2nb0yXrFs3ehdA3E?usp=drive_link
@@ -13,6 +15,7 @@
 ---
 [Doc(PPT)]
 ##### https://docs.google.com/presentation/d/1qaB3dlOPRkqn99oJakK6NS7TiNdpFkjzmilmlIJUk-A/edit?usp=sharing
+
 
 <!--
 
