@@ -18,7 +18,7 @@
 
 ---
 [Word]
-#####https://youtube.com/playlist?list=PLFCmZhLK9Txl69GdMQnhEnyzGlkmTySyh&si=ceJg33HzOsgskyQJ
+##### https://youtube.com/playlist?list=PLFCmZhLK9Txl69GdMQnhEnyzGlkmTySyh&si=ceJg33HzOsgskyQJ
 <!--
 
 **Here are some ideas to get you started:**
