@@ -3,9 +3,7 @@
 
 ![image](https://github.com/user-attachments/assets/31675a28-ee1a-46f7-a818-8be9279f215b)
 
----
-[Excel]
-##### [https://docs.google.com/spreadsheets/d/1AzE39QJt4L9Dj6Vou05c0duUIhmQOLs9ZVfAXUcb6Oo/edit?gid=1071134977#gid=1071134977](https://docs.google.com/spreadsheets/d/1AzE39QJt4L9Dj6Vou05c0duUIhmQOLs9ZVfAXUcb6Oo/edit?usp=sharing)
+
 ---
 [Data(Google Drive)] 
 ##### https://drive.google.com/drive/folders/1OJ1_br6xRmPAoMxe2nb0yXrFs3ehdA3E?usp=drive_link
