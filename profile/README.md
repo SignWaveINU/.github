@@ -18,7 +18,10 @@
 ![image](https://github.com/user-attachments/assets/2c83bf7a-db20-4344-9351-a2b2b9fcbea5)
 ---
 
-[Excel(for GSN]
+[Excel]
+### Gesture
+##### https://docs.google.com/spreadsheets/d/1s-SbEsA2lygjWCZeHdW23-J6eOUGcYd7p5wY56i2S2o/edit?usp=sharing
+### GSN
 ##### https://docs.google.com/spreadsheets/d/1AzE39QJt4L9Dj6Vou05c0duUIhmQOLs9ZVfAXUcb6Oo/edit?usp=sharing
 ---
 [Data(Google Drive)] 
