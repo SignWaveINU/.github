@@ -6,14 +6,17 @@
 ![image](https://github.com/user-attachments/assets/e29fd2f0-241f-4f43-ab6f-b67d7e902d0c)
 ----
 [Translate]
+---
 ![image](https://github.com/user-attachments/assets/38aca8b6-ec9d-4e4b-bd86-50d62028e3fb)
 ---
 [STT]
+---
 ![image](https://github.com/user-attachments/assets/6aca2763-fc2e-46b6-beff-82aca84d850b)
 ---
 [My Page]
+---
 ![image](https://github.com/user-attachments/assets/2c83bf7a-db20-4344-9351-a2b2b9fcbea5)
-
+---
 
 [Excel(for GSN]
 ##### https://docs.google.com/spreadsheets/d/1AzE39QJt4L9Dj6Vou05c0duUIhmQOLs9ZVfAXUcb6Oo/edit?usp=sharing
