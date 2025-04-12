@@ -19,9 +19,9 @@
 ---
 
 [Excel]
-##### <Gesture>
+##### Gesture
 ##### https://docs.google.com/spreadsheets/d/1s-SbEsA2lygjWCZeHdW23-J6eOUGcYd7p5wY56i2S2o/edit?usp=sharing
-##### <GSN>
+##### GSN
 ##### https://docs.google.com/spreadsheets/d/1AzE39QJt4L9Dj6Vou05c0duUIhmQOLs9ZVfAXUcb6Oo/edit?usp=sharing
 ---
 [Data(Google Drive)] 
