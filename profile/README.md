@@ -35,7 +35,7 @@
 ---
 [Doc(PPT)]
 ##### https://docs.google.com/presentation/d/1qaB3dlOPRkqn99oJakK6NS7TiNdpFkjzmilmlIJUk-A/edit?usp=sharing
-
+##### https://docs.google.com/presentation/d/125C2B2okWsh8IYrQeV47L_Kz6tsR6rTAO4JPnmBGsnI/mobilepresent?slide=id.g34ce4ad6ab5_0_15
 ---
 [Word]
 ##### https://youtube.com/playlist?list=PLFCmZhLK9Txl69GdMQnhEnyzGlkmTySyh&si=ceJg33HzOsgskyQJ
